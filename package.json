@@ -1,0 +1,19 @@
+{
+  "name": "buatteakamu",
+  "version": "1.1.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/androidel/buatteakamu"
+  },
+  "bugs": {
+    "url": "https://github.com/androidel/buatteakamu/issues"
+  },
+  "homepage": "https://github.com/androidel/buatteakamu#readme"
+}
